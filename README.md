@@ -1,2 +1,5 @@
 # hello-world
-Lab #1 Hello World Using GitHub: Practicing the version control system using GitHub by creating repository hello-world. 
+Hello Everyone !
+
+My name is Aakriti, I like exploring new thing and experiencing new culture food.
+I have large apitite for food and love to experiment with my taste palet.
